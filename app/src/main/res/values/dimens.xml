@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_city_name">36dp</dimen>
+    <dimen name="text_size_temperature">52dp</dimen>
+    <dimen name="margin16">16dp</dimen>
+</resources>
